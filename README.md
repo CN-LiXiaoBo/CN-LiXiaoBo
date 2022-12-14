@@ -9,7 +9,7 @@
 ## Some Statistics About Me
 
 
-<img align="" height="185px" src="https://github-readme-stats.vercel.app/api?username=CN-LiXiaoBo&show_icons=true&line_height=21&theme=merko" /><img align="" height="185px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CN-LiXiaoBo&layout=compact&exclude_repo=CN-LiXiaoBo.github.io&theme=merko" />
+<img align="" height="150px" src="https://github-readme-stats.vercel.app/api?username=CN-LiXiaoBo&show_icons=true&line_height=21&theme=merko" /><img align="" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CN-LiXiaoBo&layout=compact&exclude_repo=CN-LiXiaoBo.github.io&theme=merko" />
 
 
 ## Professional competence
